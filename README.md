@@ -2,7 +2,7 @@
   
 # 👋 Rafael Manso
 
-### QA Engineer | Test Automation Specialist | Quality Advocate
+### QA Engineer | Test Automation Specialist 
 
 </div>
 
