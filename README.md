@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Rafael Manso
+# Rafael Manso
 
 ### QA Engineer | Test Automation Specialist 
 
