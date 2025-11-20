@@ -122,6 +122,6 @@ Educational performance testing project featuring smoke, load, stress, soak, and
   
 *"Quality is not an act, it is a habit."* — Aristotle
 
-**Open to QA Engineer opportunities** | **Remote & Hybrid** | **Building quality-first software**
+**Open to QA Engineer opportunities** | **Building quality-first software**
 
 </div>
