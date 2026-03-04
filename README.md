@@ -84,12 +84,10 @@ Educational performance testing project featuring smoke, load, stress, soak, and
 ## 📊 GitHub Stats
 
 <div align="center">
-  
 
+<img src="https://github-readme-stats.vercel.app/api?username=rafaeltmanso&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltmanso&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltmanso&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
